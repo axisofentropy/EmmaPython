@@ -1,12 +1,12 @@
 query Package
 =============
 
-.. automodule:: myemma.query
+.. automodule:: emma.query
 
 :mod:`factory` Module
 ---------------------
 
-.. automodule:: myemma.query.factory
+.. automodule:: emma.query.factory
     :members:
     :show-inheritance:
 

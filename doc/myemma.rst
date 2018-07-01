@@ -1,7 +1,7 @@
-myemma Package
+emma Package
 ==============
 
-.. automodule:: myemma
+.. automodule:: emma
 
 Reporting
 -----------

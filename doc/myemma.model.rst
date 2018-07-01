@@ -1,75 +1,75 @@
 model Package
 =============
 
-.. automodule:: myemma.model
+.. automodule:: emma.model
 
 :mod:`account` Module
 ---------------------
 
-.. automodule:: myemma.model.account
+.. automodule:: emma.model.account
     :members:
     :show-inheritance:
 
 :mod:`field` Module
 -------------------
 
-.. automodule:: myemma.model.field
+.. automodule:: emma.model.field
     :members:
     :show-inheritance:
 
 :mod:`group` Module
 -------------------
 
-.. automodule:: myemma.model.group
+.. automodule:: emma.model.group
     :members:
     :show-inheritance:
 
 :mod:`mailing` Module
 ---------------------
 
-.. automodule:: myemma.model.mailing
+.. automodule:: emma.model.mailing
     :members:
     :show-inheritance:
 
 :mod:`member` Module
 --------------------
 
-.. automodule:: myemma.model.member
+.. automodule:: emma.model.member
     :members:
     :show-inheritance:
 
 :mod:`member_import` Module
 --------------------
 
-.. automodule:: myemma.model.member_import
+.. automodule:: emma.model.member_import
     :members:
     :show-inheritance:
 
 :mod:`message` Module
 --------------------
 
-.. automodule:: myemma.model.message
+.. automodule:: emma.model.message
     :members:
     :show-inheritance:
 
 :mod:`search` Module
 --------------------
 
-.. automodule:: myemma.model.search
+.. automodule:: emma.model.search
     :members:
     :show-inheritance:
 
 :mod:`trigger` Module
 --------------------
 
-.. automodule:: myemma.model.trigger
+.. automodule:: emma.model.trigger
     :members:
     :show-inheritance:
 
 :mod:`webhook` Module
 --------------------
 
-.. automodule:: myemma.model.webhook
+.. automodule:: emma.model.webhook
     :members:
     :show-inheritance:
 

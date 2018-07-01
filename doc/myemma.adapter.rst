@@ -1,12 +1,12 @@
 adapter Package
 ===============
 
-.. automodule:: myemma.adapter
+.. automodule:: emma.adapter
 
 :mod:`requests_adapter` Module
 ------------------------------
 
-.. automodule:: myemma.adapter.requests_adapter
+.. automodule:: emma.adapter.requests_adapter
     :members:
     :show-inheritance:
 
