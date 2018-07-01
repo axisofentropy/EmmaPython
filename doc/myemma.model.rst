@@ -39,14 +39,14 @@ model Package
     :show-inheritance:
 
 :mod:`member_import` Module
---------------------
+---------------------------
 
 .. automodule:: emma.model.member_import
     :members:
     :show-inheritance:
 
 :mod:`message` Module
---------------------
+---------------------
 
 .. automodule:: emma.model.message
     :members:
@@ -60,14 +60,14 @@ model Package
     :show-inheritance:
 
 :mod:`trigger` Module
---------------------
+---------------------
 
 .. automodule:: emma.model.trigger
     :members:
     :show-inheritance:
 
 :mod:`webhook` Module
---------------------
+---------------------
 
 .. automodule:: emma.model.webhook
     :members:
